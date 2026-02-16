@@ -2,6 +2,10 @@
 
 Visual simulation of photons random-walking inside a star. Step lengths are sampled from an exponential distribution using the local mean free path.
 
+## Demo
+
+![Simulation demo](screenshots/demo.png)
+
 ## Requirements
 - Python 3.x (standard library only)
 
